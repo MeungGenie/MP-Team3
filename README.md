@@ -11,4 +11,4 @@
 
 |판매제품화면|경매화면|낙찰화면|내정보화면|
 |---|---|---|---|
-|<img src="(https://github.com/MeungGenie/MP-Team3/assets/91128036/7b8bc116-d902-498a-9698-62c8511438b8">|<img src="https://github.com/MeungGenie/MP-Team3/assets/91128036/9e06a16a-0d87-4fd6-aafe-55fce9251880">|<img src="https://github.com/MeungGenie/MP-Team3/assets/91128036/5fb81992-7e41-4e06-b0b5-043fac651236">|<img src="https://github.com/MeungGenie/MP-Team3/assets/91128036/3588134a-6fc4-49d8-bd3a-c7fd1a8e6ee8">|
+|<img src="https://github.com/MeungGenie/MP-Team3/assets/91128036/7b8bc116-d902-498a-9698-62c8511438b8">|<img src="https://github.com/MeungGenie/MP-Team3/assets/91128036/9e06a16a-0d87-4fd6-aafe-55fce9251880">|<img src="https://github.com/MeungGenie/MP-Team3/assets/91128036/5fb81992-7e41-4e06-b0b5-043fac651236">|<img src="https://github.com/MeungGenie/MP-Team3/assets/91128036/3588134a-6fc4-49d8-bd3a-c7fd1a8e6ee8">|
